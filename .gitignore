@@ -1,0 +1,21 @@
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Credentials and private material must never enter this public repository
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+_private/
+
